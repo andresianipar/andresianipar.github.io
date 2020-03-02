@@ -203,10 +203,10 @@ ul#nav ul {
 
 /* 
 ul#nav ul ul {
-  position: absolute;
-  top: 0;
-  left: 100%;
-  border-radius: 0 3px 3px 0;
+ position: absolute;
+ top: 0;
+ left: 100%;
+ border-radius: 0 3px 3px 0;
 }
 */
 
@@ -442,6 +442,7 @@ ul#nav ul li a {
 
 .entry .entry-content-media {
    margin: 24px 0 18px;
+   text-align: center;
 }
 
 .entry .tags {
