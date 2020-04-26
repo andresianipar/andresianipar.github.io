@@ -197,10 +197,10 @@ html {
 
 body {
     background: #fff;
-    font-family: 'merriweather-regular', sans-serif;
+    font-family: Georgia,"Times New Roman",serif;
     font-weight: normal;
-    font-size: 15px;
-    line-height: 30px;
+    font-size: 19px;
+    line-height: 34px;
     color: #4A5153;
 
     -webkit-font-smoothing: antialiased;
@@ -821,7 +821,7 @@ input[type="checkbox"] {
 .row {
     width: 94%;
     max-width: 1008px;
-    margin: 0 auto;
+    margin: 0 40px 0 auto;
 }
 
 /* fixed width for IE8 */
