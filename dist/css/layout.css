@@ -121,8 +121,8 @@ header p#intro {
 
 ul#nav {
    min-height: 50px;
-   width: auto;
-   margin-left: 20px;
+   width: 690px;
+   margin-left: 0px;
 
    float: left;
    position: relative;
@@ -137,7 +137,7 @@ ul#nav li {
    list-style: none;
    height: 50px;
    display: inline-block;
-   padding-top: 10px;
+   padding: 10px 0 0 1px;
 }
 
 /* float left to remove gaps between 1st level list items */
@@ -258,7 +258,7 @@ ul#nav ul li a {
 }
 
 #content-wrap #main {
-   padding-right: 40px;
+   padding-right: 0px;
 }
 
 
@@ -422,7 +422,7 @@ ul#nav ul li a {
 
 .entry .entry-meta ul {
    margin: 6px 0 18px;
-   color: #B7B9BD;
+   color: #8B9798;
    line-height: 24px;
 }
 
@@ -437,7 +437,7 @@ ul#nav ul li a {
 .entry .entry-meta ul .meta-sep {}
 
 .entry .entry-meta ul li a {
-   color: #B7B9BD;
+   color: #8B9798;
 }
 
 .entry .entry-content-media {
